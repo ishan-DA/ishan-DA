@@ -1,6 +1,7 @@
+![Banner](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
 <h1 align="center">Hi 👋, I'm Ishan Chaurasia</h1>
 <h3 align="center">The Art of Data Analysis: How I Use Code and Word to Tell Stories</h3>
-<img align="right" alt="analytics" width="400" src="https://media.tenor.com/uDktrFdyUhQAAAAC/it-is-all-about-the-data-in-data-we-trust.gif">
+<img align="right" alt="analytics" width="400" src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47etc03zu74lgexef758mgglsret50glg1z6alfbum&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-da&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-da" /> </p>
 
