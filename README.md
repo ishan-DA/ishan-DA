@@ -13,7 +13,7 @@
 
 - 👨‍💻 Currently preparing for **Power BI Data Analyst Associate**
 
-- 💬 Ask me about **MS Excel, Power BI**
+- 💬 Ask me about **MS Excel, SQL, Power BI**
 
 - 📫 How to reach me **ishan_chaurasia@outlook.com**
 
