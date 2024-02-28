@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ishan19tweets" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="40" width="40" /> </a>
-<a href="https://linkedin.com/in/ishan--chaurasia" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://medium.com/@ishanszr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/15081/15081197.png" alt="Medium" height="40" width="40" /> </a>
+<a href="https://twitter.com/ishan19tweets" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/ishan--chaurasia" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://medium.com/@ishanszr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/15081/15081197.png" alt="Medium" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
