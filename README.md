@@ -34,7 +34,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://lookerstudio.google.com/navigation/reporting" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="looker" width="40" height="40"/> </a> 
-<a href="https://lookerstudio.google.com/navigation/reporting" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" alt="looker" width="40" height="40"/> </a>
+<a href="https://make.powerautomate.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" alt="looker" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan-da&show_icons=true&locale=en&layout=compact" alt="ishan-da" /></p>
