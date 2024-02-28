@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
+- 👨‍💻 I'm preparing for **Power BI Data Analyst Associate**
+
 - 💬 Ask me about **MS Excel, Power BI**
 
 - 📫 How to reach me **ishan_chaurasia@outlook.com**
@@ -19,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ishan19tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan19tweets" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishan--chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan--chaurasia" height="30" width="40" /></a>
-<a href="https://medium.com/@ishanszr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishanszr" height="30" width="40" /></a>
+<a href="https://twitter.com/ishan19tweets" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="ishan19tweets" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishan--chaurasia" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="ishan--chaurasia" height="30" width="40" /></a>
+<a href="https://medium.com/@ishanszr" target="blank"><img align="center" src="https://img.icons8.com/?size=30&id=BzFWSIqh6bCr&format=png" alt="@ishanszr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
