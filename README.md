@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishan19tweets" target="blank"><img src="https://img.shields.io/twitter/follow/ishan19tweets?logo=twitter&style=for-the-badge" alt="ishan19tweets" /></a> </p>
 
-- 🔭 I’m currently working on **Cohort and Retention Analysis**
+- 🔭 I’m currently working on **Danny's 8 Week SQL Challenge**
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
